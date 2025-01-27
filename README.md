@@ -32,7 +32,7 @@ This format improves API usability by making error responses more descriptive an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Tayyab94/ExceptionHandleWithProblemDetailsNet9
    ```
 2. Navigate to the project directory:
    ```bash
