@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ulneMf/y9yg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tayya\\source\\Repos\\ProblemDetailHandleError\\ProblemDetailHandleError\\ProblemDetailHandleError.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\selenium.webdriver\\4.28.0\\selenium.webdriver.4.28.0.nupkg.sha512"
+  ],
+  "logs": []
+}

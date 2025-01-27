@@ -1,0 +1,6 @@
+@ProblemDetailHandleError_HostAddress = http://localhost:5012
+
+GET {{ProblemDetailHandleError_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

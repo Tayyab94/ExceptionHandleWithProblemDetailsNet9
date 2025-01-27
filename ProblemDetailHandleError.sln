@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35617.110 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemDetailHandleError", "ProblemDetailHandleError\ProblemDetailHandleError.csproj", "{2CB07A48-AD72-420E-B330-0EAAF7F473BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CB07A48-AD72-420E-B330-0EAAF7F473BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB07A48-AD72-420E-B330-0EAAF7F473BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB07A48-AD72-420E-B330-0EAAF7F473BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB07A48-AD72-420E-B330-0EAAF7F473BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBF8B9C9-27AC-49D3-BEC6-2603CBE36C1D}
+	EndGlobalSection
+EndGlobal
